@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.423d27d5.css",
+    "main.js": "/static/js/main.c37f413d.js",
+    "static/js/453.5629022a.chunk.js": "/static/js/453.5629022a.chunk.js",
+    "static/media/pexels-artempodrez-8986041.jpg": "/static/media/pexels-artempodrez-8986041.2e22dfbc75bb0c246bbe.jpg",
+    "static/media/oil filter.jpg": "/static/media/oil filter.a6dcc6ed94509ade2f44.jpg",
+    "static/media/front bottom.jpg": "/static/media/front bottom.3e5a2ae63e3bb6c163d1.jpg",
+    "static/media/engine work.jpg": "/static/media/engine work.0b3e74e9f630d7e5be7b.jpg",
+    "static/media/pexels-hyundaimotorgroup-11645584.jpg": "/static/media/pexels-hyundaimotorgroup-11645584.abe2b29aa6f1128302ba.jpg",
+    "static/media/hook.jpg": "/static/media/hook.3ffa3e49180ac3f578fa.jpg",
+    "static/media/pexels-stefanstefancik-91227.jpg": "/static/media/pexels-stefanstefancik-91227.56243a16914d41a3c2f2.jpg",
+    "static/media/pexels-olly-3807120.jpg": "/static/media/pexels-olly-3807120.2858efe93a70124361ae.jpg",
+    "static/media/battery checking.jpg": "/static/media/battery checking.1aa6014296e6b669343f.jpg",
+    "static/media/pexels-george-dolgikh-551816-1310474.jpg": "/static/media/pexels-george-dolgikh-551816-1310474.92e622ac6a8ba794533f.jpg",
+    "static/media/pexels-olly-3807811.jpg": "/static/media/pexels-olly-3807811.f068e27cbdd8dd63c7f2.jpg",
+    "static/media/wheel balance.jpg": "/static/media/wheel balance.78ce8212a4d596cf9f3d.jpg",
+    "static/media/pexels-olly-3855646.jpg": "/static/media/pexels-olly-3855646.1d143d0594cc0cdba198.jpg",
+    "static/media/pexels-olly-762020.jpg": "/static/media/pexels-olly-762020.a389d25017ff9b55c88e.jpg",
+    "static/media/pexels-olly-3855645.jpg": "/static/media/pexels-olly-3855645.4b9b779f5b3750db8a5b.jpg",
+    "static/media/blog-02.jpg": "/static/media/blog-02.108b2ce6bac1521d2c8b.jpg",
+    "static/media/blog-03.jpg": "/static/media/blog-03.57436db9364be28048fc.jpg",
+    "static/media/blog-01.jpg": "/static/media/blog-01.ba2c59c322be05f6c31c.jpg",
+    "static/media/team-03.jpg": "/static/media/team-03.8fdda85240aa93ab77dd.jpg",
+    "static/media/team-01.jpg": "/static/media/team-01.a38d27eb122506c00d10.jpg",
+    "static/media/team-02.jpg": "/static/media/team-02.fb146d4d504a237a66c5.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.423d27d5.css.map": "/static/css/main.423d27d5.css.map",
+    "main.c37f413d.js.map": "/static/js/main.c37f413d.js.map",
+    "453.5629022a.chunk.js.map": "/static/js/453.5629022a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.423d27d5.css",
+    "static/js/main.c37f413d.js"
+  ]
+}
